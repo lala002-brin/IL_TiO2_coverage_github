@@ -1,1 +1,0 @@
-Copy your TiO2_110_3x5.cif file into this folder and name it exactly TiO2_110_3x5.cif
