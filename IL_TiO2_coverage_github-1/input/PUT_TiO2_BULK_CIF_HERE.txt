@@ -1,6 +1,0 @@
-Copy your original bulk rutile TiO2 CIF here and name it exactly:
-
-TiO2.cif
-
-Then run from the repository root:
-python3 scripts/00_make_TiO2_110_3x5.py
